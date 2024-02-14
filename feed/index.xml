@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>Template Fast Static</title>
+	<title>Corporación Bioestetica</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Wed, 14 Feb 2024 20:39:51 +0000</lastBuildDate>
+	<description>Tu decisión más inteligente</description>
+	<lastBuildDate>Wed, 14 Feb 2024 21:54:25 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/02/logo-bio.png</url>
+	<title>Corporación Bioestetica</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
