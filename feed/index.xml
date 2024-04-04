@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tu decisión más inteligente</description>
-	<lastBuildDate>Fri, 23 Feb 2024 17:21:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Apr 2024 21:47:56 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/02/logo-bio.png</url>
