@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en Corporación Bioestetica	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://corpobio.fastandstatic.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://corpobio.fastandstatic.com/</link>
 	<description>Tu decisión más inteligente</description>
 	<lastBuildDate>Tue, 18 Jun 2024 21:36:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

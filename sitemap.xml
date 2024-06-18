@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://corpobio.fastandstatic.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>http://corpobio.fastandstatic.com/page-sitemap.xml</loc>
 		<lastmod>2024-06-18T21:36:54+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
