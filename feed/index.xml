@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Corporación Bioestetica</title>
-	<atom:link href="http://corpobio.fastandstatic.com/feed/" rel="self" type="application/rss+xml" />
-	<link>http://corpobio.fastandstatic.com/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Tu decisión más inteligente</description>
 	<lastBuildDate>Tue, 18 Jun 2024 22:04:08 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>http://corpobio.fastandstatic.com/wp-content/uploads/2024/02/logo-bio.png</url>
+	<url>/wp-content/uploads/2024/02/logo-bio.png</url>
 	<title>Corporación Bioestetica</title>
-	<link>http://corpobio.fastandstatic.com/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
